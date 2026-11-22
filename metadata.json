@@ -1,0 +1,6 @@
+{
+  "name": "Dövri Sistem",
+  "description": "Kimyəvi elementlərin dövri cədvəli: metallar, qeyri-metallar, atom radiusu, turşuluq, ionlaşma enerjisi və bütün xüsusiyyətlərin interaktiv tədqiqi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
